@@ -64,7 +64,8 @@ Serenity Scribe is a digital platform that allows users to record their daily mo
 
 ### Notes on running:
 
-- flask import-moods "/src/data/moodData.json"
+- pipenv shell
+- flask import-moods "/workspaces/Albert_Derek_Scott-Mood-Journal/src/data/moodData.json"
 
 ### 1) Installation:
 
